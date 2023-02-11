@@ -5,3 +5,14 @@ to build it run
 ```
 go build main.go
 ```
+and then
+
+```
+./main
+```
+
+or run 
+
+```
+go run main.go
+```
